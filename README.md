@@ -9,6 +9,8 @@
 
 ![image](./assets/teaser.png)
 
+### News [2026-06]: We have open-sourced a much stronger [CoLaR-2](https://github.com/redai-infra/PIPO), with deployment-level performance and infrastructure!
+
 # Cite:
 If you think this work is helpful to you, please cite our paper in **arXiv version** (since the NeurIPS proceeding version was not correctly indexed by Google Scholar :(
 ```
